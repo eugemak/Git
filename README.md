@@ -1,2 +1,2 @@
-# first
+# Study GIT
 Изучаем GIT
